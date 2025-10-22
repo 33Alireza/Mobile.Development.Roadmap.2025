@@ -33,8 +33,8 @@
 - [Cross-Platform](#-cross-platform)
 - [Portfolio](#-portfolio)
 - [Software Engineering](#-software-engineering)
-- [Version Control](#-version-control)
-- [Cloud Computing](#-cloud-computing)
+- [Version Control](#version-control)
+- [Cloud Computing](#cloud-computing)
 
 ---
 
@@ -1518,7 +1518,7 @@ Technical mastery means nothing without this part.
 
 ---
 
-## 🗂️ Version Control
+## Version Control
 
 🎯 Goal: To master Git and GitHub for professional mobile development workflows — including collaboration, versioning,
 code reviews, branching, and continuous integration.
@@ -1659,7 +1659,7 @@ code reviews, branching, and continuous integration.
 
 ---
 
-## ☁️ Cloud Computing
+## Cloud Computing
 
 ### 1) 🌩️ Cloud Foundations
 
