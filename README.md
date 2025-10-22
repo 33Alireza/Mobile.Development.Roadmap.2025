@@ -1,4 +1,4 @@
-<img alt="Mobile Development Roadmap" src="MobileDevelopment-Logo.png">
+
 
 # 🚀 Mobile Development Roadmap
 
@@ -1189,6 +1189,8 @@ Experiment with new Flutter frameworks (e.g., Impeller engine)
 Goal: Build real, concept-driven projects that strengthen your understanding of mobile software engineering, no matter
 which language or framework you use — Kotlin, Swift, or Flutter.
 
+---
+
 ### 1️⃣ Foundation Level — Core App Building
 
 🎯 Focus: Master UI, logic, and state management
@@ -1520,6 +1522,8 @@ Technical mastery means nothing without this part.
 
 🎯 Goal: To master Git and GitHub for professional mobile development workflows — including collaboration, versioning,
 code reviews, branching, and continuous integration.
+
+---
 
 ### 🩵 1. Introduction to Version Control
 
